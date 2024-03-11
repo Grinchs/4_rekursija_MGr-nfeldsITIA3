@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_rekursija_MGrīnfeldsITIA3", "4_rekursija_MGrīnfeldsITIA3\4_rekursija_MGrīnfeldsITIA3.csproj", "{B6A511BD-CEA8-4B70-B8DD-98FC84A0D481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A511BD-CEA8-4B70-B8DD-98FC84A0D481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A511BD-CEA8-4B70-B8DD-98FC84A0D481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A511BD-CEA8-4B70-B8DD-98FC84A0D481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A511BD-CEA8-4B70-B8DD-98FC84A0D481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFDCDEAA-E7C1-4E50-A856-CF561A822147}
+	EndGlobalSection
+EndGlobal
